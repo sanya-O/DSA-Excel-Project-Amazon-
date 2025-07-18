@@ -6,4 +6,4 @@ I have learnt quite many things while handon on project topic and the dataset wh
 ## Projecy Topic: Amazon Case Study
 
 ## Project Overview: 
-This is data analysis project aims to generate insight about products performance and their category.
+This is data analysis project aims to generate insight about products performance and their category over the entire company. By analysing the various product parameters by category in dataset as we gather enough insight to make reasonable decision which inturn wil enble us to tell compelling story around our dataset from the sight gotten and to know the best performing product from our data.
