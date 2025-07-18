@@ -7,3 +7,11 @@ I have learnt quite many things while handon on project topic and the dataset wh
 
 ## Project Overview: 
 This is data analysis project aims to generate insight about products performance and their category over the entire company. By analysing the various product parameters by category in dataset as we gather enough insight to make reasonable decision which inturn wil enble us to tell compelling story around our dataset from the sight gotten and to know the best performing product from our data.
+
+### Data Source:
+The primary data source used herh DSA LMS Incubator Hub Excel filethat is free downloaded from Canvas platform.
+
+### Tools Used:
+- Ms Excel for data cleaning (Download here)
+    - For Data Collection
+    - For Data Cleaning
